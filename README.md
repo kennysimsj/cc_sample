@@ -1,1 +1,1 @@
-This Jupyter notebook is created for Data Engineering exercise for Credit Card Transactions (and fraud)
+This Jupyter notebook is created for Data Engineering exercise for Credit Card Transactions (and fraud) using PySpark for data transformation and Python Libraries (Seaborn/Matplotlib) for EDA and visualisations
